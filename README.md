@@ -1,8 +1,5 @@
 # HiddenGems-bot
-Gemmy is a Discord bot that helps out in the Hidden Gems club Discord
-server by reading through all the posts in forum channels and storing
-in a database (currently MongoDB). The [Hidden Gems website](https://github.com/HiddenGems-Club/HiddenGems-website)
-will then pull the data from the database and display them on the website.
+Gemmy is a Discord bot that helps out in the Hidden Gems club Discord server by reading through all the posts in forum channels and storing it in a database (currently MongoDB). The [Hidden Gems website](https://github.com/HiddenGems-Club/HiddenGems-website) will then pull the data from the database and display them on the website.
 
 This bot was made based on the [discord.js guide](https://discordjs.guide/legacy).
 
