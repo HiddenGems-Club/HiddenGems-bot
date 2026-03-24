@@ -1,0 +1,25 @@
+{
+  "name": "hiddengems-bot",
+  "version": "1.0.0",
+  "description": "A helper Discord bot for the Hidden Gems club",
+  "homepage": "https://github.com/HiddenGems-Club/HiddenGems-bot#readme",
+  "bugs": {
+    "url": "https://github.com/HiddenGems-Club/HiddenGems-bot/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HiddenGems-Club/HiddenGems-bot.git"
+  },
+  "license": "Apache-2.0",
+  "author": "ReactorFailure",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "discord.js": "^14.25.1",
+    "dotenv": "^17.3.1",
+    "mongoose": "^9.3.2"
+  }
+}
