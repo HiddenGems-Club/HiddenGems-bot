@@ -19,7 +19,7 @@ git clone https://github.com/HiddenGems-Club/HiddenGems-bot.git
 npm install
 ```
 
-To run the bot, first rename `example.env` to `.env` and fill in the IDs and tokens.
+To run the bot, first rename `example.env` to `.env` and fill in the IDs and tokens. Rename `example.config.json` to `config.json` and fill in the IDs.
 After that, run these commands:
 1. Register and deploy the commands (should be run if you made new commands or edited a command):
 ```shell
