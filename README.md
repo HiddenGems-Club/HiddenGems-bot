@@ -31,7 +31,11 @@ node .
 ```
 After running these commands, your console should print that the bot has awakened.
 
+# Dev branch
+The dev branch is where I test out features before I push them to the master branch.
+
 ## Libraries Used
-- discord.js (v14.25.1)
+- discord.js (v14.26.0)
 - mongoose (v9.3.2)
 - dotenv (v17.3.1)
+- sharp (v0.34.5)
