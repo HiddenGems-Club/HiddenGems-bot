@@ -1,0 +1,10 @@
+{
+  "ErrorLogChannelID": "CHANNEL-ID",
+  "ForumChannelIDs": [
+    "CHANNEL_ID1",
+    "CHANNEL_ID2",
+    "CHANNEL_ID3",
+    "CHANNEL_ID_etc"
+  ],
+  "ForumTagName": "Forum Tag Name for the bot watch"
+}
