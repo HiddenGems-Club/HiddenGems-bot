@@ -1,4 +1,4 @@
-const { Events, ActivityType } = require('discord.js');
+const { Events, ActivityType } = require("discord.js");
 const mongoose = require("mongoose");
 const mongoURL = process.env.MONGODB;
 
@@ -7,7 +7,7 @@ module.exports = {
     once: true,
     async execute(client) {
         client.user.setPresence({
-            
+
             activities: [{
                 name: "Status blah blah blah",
                 type: ActivityType.Custom,
